@@ -9,4 +9,4 @@ Things to learn: <br />
 4. Making entries in text boxes <br />
 5. Closing pop up dialogue boxes </br>
 6. Switching to a new tab <br />
-Link to screen recording: https://drive.google.com/file/d/1qLa3ekOxXDV2lKVTRGXrpsxNTvXU_Ekw/view?usp=sharing
+Link to screen recording: https://drive.google.com/file/d/1cSC1O9WMiL9FGu1ucKq1PJHRproVxFQY/view?usp=drivesdk
