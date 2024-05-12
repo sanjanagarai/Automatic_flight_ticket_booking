@@ -9,3 +9,4 @@ Things to learn: <br />
 4. Making entries in text boxes <br />
 5. Closing pop up dialogue boxes </br>
 6. Switching to a new tab <br />
+Link to screen recording: 
